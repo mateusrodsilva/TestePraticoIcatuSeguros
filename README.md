@@ -1,6 +1,6 @@
 # Teste prático Icatú Seguros
 
-Teste proposto pela Tech Recruiter Laíza para a vaga de Desenvolvedor na Icatu Seguros, para a evolução de uma Web API construída no padrão CQRS implementando uma nova funcionalidade de Registro de Compra.
+Teste proposto pela Tech Recruiter Laíza para a vaga de Desenvolvedor na Icatu Seguros, para a evolução de uma Web API construída no padrão CQRS implementando uma nova funcionalidade de Registro de Compra com as atividades propostas no documento `Teste Pratico Sisprev.docx`.
 
 ## Conexão do Banco de Dados
 Para instalarmos o banco de dados no nosso servidor local, precisamos alterar a string de conexão da API,
@@ -15,7 +15,7 @@ que está no arquivo `appsettings.json` na linha 3, localizado na pasta `Sistema
 
 ## Instalação
 
-As migrações foram criadas com o comando 
+As migrações foram criadas com o comando no Console de Gerenciador de Pacotes do NuGet
 ```cmd
 add-migration
 ```
@@ -45,6 +45,7 @@ Agora estamos prontos para rodar o projeto :).
 - .NET Core 3.1
 - Swagger
 - Entity Framework Core
+- SQL SERVER 2019
 - Microsoft SQL Server Management Studio 
 - MediatR
 - Visual Studio 2022
