@@ -2,6 +2,7 @@
 using SistemaCompra.Domain.Core.Model;
 using SistemaCompra.Domain.ProdutoAggregate.Events;
 using System;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SistemaCompra.Domain.ProdutoAggregate
 {

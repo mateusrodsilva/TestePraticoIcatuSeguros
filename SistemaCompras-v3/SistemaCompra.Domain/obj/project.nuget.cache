@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "AVWPzB46gASomBbhNorZAvBBPYXFH8XvyvQGVBbl2IlY4UnRPTn176c8IvBsgpdCFZSM9gOo5g4h+1MldW/ymQ==",
+  "dgSpecHash": "W6okIP4muGt16wTEnlD23ZfdCOwzPzMR9edJBtNBn4orkLI7KrSXpAJmKItIhumNHtIgfp5PY6a6USr/JHs7dA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Prova-Sisprev\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
+  "projectFilePath": "C:\\Users\\mrodr\\OneDrive\\Área de Trabalho\\TestePraticoIcatuSeguros\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rasth\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
-    "C:\\Users\\rasth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\rasth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\mrodr\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\mrodr\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.1\\microsoft.entityframeworkcore.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\mrodr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mrodr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mrodr\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

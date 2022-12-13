@@ -28,3 +28,37 @@ C:\Projetos\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0
 C:\Projetos\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.csproj.CopyComplete
 C:\Projetos\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.dll
 C:\Projetos\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Application.deps.json
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Application.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Application.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Domain.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Infra.Data.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Domain.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Infra.Data.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.csproj.AssemblyReference.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.AssemblyInfoInputs.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.AssemblyInfo.cs
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.csproj.CopyComplete
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\testeTecnicoIcatu\SistemaCompras-v3\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Application.deps.json
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Application.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Application.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Domain.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Infra.Data.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Domain.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Infra.Data.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.csproj.AssemblyReference.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.AssemblyInfoInputs.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.AssemblyInfo.cs
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.csproj.CopyComplete
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePraticoIcatuSeguros\SistemaCompras-v3\SistemaCompra.Application\obj\Debug\netstandard2.0\SistemaCompra.Application.pdb
